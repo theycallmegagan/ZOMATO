@@ -1108,7 +1108,9 @@ left: 50px;
         top: 400px;
         margin-top: 955px;
     }
-    
+    .last-text{
+
+        display:none;
 }
 
 @media screen and (max-width:556px) {
