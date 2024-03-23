@@ -14,7 +14,8 @@ body{
     /* border: 1px solid red; */
     margin: 0;
     /* border: 1px solid rgb(14, 246, 192); */
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Work Sans", sans-serif;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
     
     border-width: 0.1rem;
 }
@@ -53,13 +54,21 @@ body{
 }
 
 
+
+
 .ul-links li a{
 font-size: 20px;
 font-weight: 100;
-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+/* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 color: 
 rgb(255, 255, 255);
 text-decoration: none;
+font-family: "Work Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+font-variation-settings:
+  "width" 100;
 
 }
 
@@ -78,9 +87,11 @@ text-decoration: none;
 .get-app-ul li a{
     font-size: 16px;
 font-weight: 300;
-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+/* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 color: rgb(255, 255, 255);
 display: flex;
+font-family: "Work Sans", sans-serif;
+font-weight: 300;
 
 text-decoration: none;
 
@@ -127,7 +138,9 @@ justify-content: center;
 .search-bar{
 
     width: 50%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Work Sans", sans-serif;
+    
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
     height: 55px;
     padding-left: 14px;
     font-size: 14px;
@@ -228,6 +241,8 @@ justify-content: center;
 
     font-weight: 500;
     font-size: 20px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
 }
 
 .para-p{
@@ -277,6 +292,7 @@ margin-left: 46px;
     display: inline-block;
     position: relative;
     width: 100%;
+    font-family: "Work Sans", sans-serif;
 }
 
 
@@ -317,10 +333,13 @@ margin-left: 46px;
     font-weight: 470;
     padding-bottom: 5px;
     padding-left: 13px;
+    font-family: "Work Sans", sans-serif;
 }
 
 .sector-div h6{
     padding-left: 13px;
+    font-weight: 400;
+    font-family: "Work Sans", sans-serif;
 }
 .arrow-span{
 
@@ -398,12 +417,14 @@ margin-left: 46px;
     font-weight: 400;
     top: -10px;
     position: relative;
+    font-family: "Work Sans", sans-serif;
 }
 .content-text h2{
 
     color: rgb(28, 28, 28);
     font-weight: 500;
     font-size: 40px;
+    font-family: "Work Sans", sans-serif;
     line-height: 5.6rem;
 }
 
